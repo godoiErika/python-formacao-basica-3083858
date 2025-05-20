@@ -1,0 +1,1 @@
+print("Olá,mundo!") #imprime na tela a frase "Olá mundo"
